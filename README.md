@@ -15,6 +15,16 @@
 - Data Analysis: Unique values are analyzed with .unique() and .value_counts().
 - Pivot Tables: Data summaries are created using pivot_table().
 
+## 📍 Matplotlib Operations
+
+- Basic Visualizations: Data was visualized with basic plots like scatter, histogram, and boxplot.
+- Scatter Plots: Relationships between variables were shown using plt.scatter().
+- Histograms: Data distributions were displayed using plt.hist().
+- Boxplots: Data variability and outliers were analyzed using plt.boxplot().
+- Subplots: Multiple plots were arranged in a single figure using plt.subplot().
+- Figures: Advanced visualizations were customized with plt.figure() for better presentation.
+- Advanced Customizations: Legends, labels, titles, and grid lines were added for clarity.
+
 ## 📍 Applications
 
 - Data cleaning and handling missing values
